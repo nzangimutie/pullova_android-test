@@ -1,0 +1,4 @@
+#Sat Aug 18 13:45:57 EAT 2018
+base.0=E\:\\Job\\pullova\\test\\mutie\\nzangi\\solutions\\Pullova_TEST\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
